@@ -1,2 +1,3 @@
-# ace-website
-Website for Azure Cost Estimator
+# Azure Cost Estimator (ACE) website
+
+For information about ACE, check this repository - https://github.com/TheCloudTheory/arm-estimator

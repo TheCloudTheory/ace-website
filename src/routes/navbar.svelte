@@ -1,0 +1,36 @@
+<nav class="navbar" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://infrack.cloud">
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="172.5" y="190" viewBox="0 0 736.5 449.5" xml:space="preserve" height="140.361090551019" width="230.00001525878906" preserveAspectRatio="xMinYMin" enable-background="new 0 0 736.5 449.4" style="overflow: visible;"><path class="st0" d="M37.7,73.8" style="fill: #382084;"/><path class="st1" d="M467.7,249.7L361.6,128.2c-2.8,2.1-6.2,3.4-9.9,3.4c-3,0-5.8-0.9-8.2-2.3L274.6,242c4.9,3.4,8.2,8.8,9,14.9     l178,5.5C462.1,257.4,464.4,253,467.7,249.7z" style="fill: #32B5FF;"/><path class="st2" d="M346.9,349.9c0-4.7,1.5-8.9,4-12.5l-73-63.3c-3.9,4.1-9.4,6.7-15.5,6.7c-4.6,0-8.9-1.5-12.4-4L134.5,422.1     c1.7,1.4,3,3,4.1,4.9l208.9-72C347.1,353.4,346.9,351.7,346.9,349.9z" style="fill: #5162FF;"/><path class="st2" d="M525.1,449.2c0-0.6,0.1-1.2,0.2-1.8l-139.9-84.7c-3.9,5.3-10.1,8.7-17.2,8.7c-0.6,0-1.2,0-1.8-0.1     c-5.5,30.9-10.1,56.6-14,78H525.1z" style="fill: #5162FF;"/><path class="st3" d="M250.5,241.8c3.4-2.3,7.5-3.6,11.9-3.6c3.1,0,6.1,0.7,8.8,1.9L340.4,127c-1.9-1.8-3.3-4.1-4.2-6.6     l-162.2,34.9L250.5,241.8z" style="fill: #22DFFF;"/><path class="st4" d="M606,220.4c-4.7,0-8.9-2-11.9-5.2L503,258.1c0.7,2.1,1.1,4.4,1.1,6.8c0,2.2-0.4,4.4-1,6.4l192.5,83.3     c2-8.8,3.1-17.9,3.1-27.3c0-52.3-32.9-96.8-79-114.2C616.7,217.5,611.7,220.4,606,220.4z" style="fill: #4977FF;"/><path class="st5" d="M109.1,428c2.6-5.7,8.3-9.6,14.9-9.6c2.5,0,4.9,0.6,7.1,1.7l115.9-145.7c-3-3.1-5.1-7.1-5.8-11.6l-187.2,23     c0,0.1,0,0.3,0,0.4c0,9.1-7.4,16.5-16.5,16.5C38.3,355.8,66.7,402.2,109.1,428z" style="fill: #418CFF;"/><path class="st6" d="M470.7,247.2c3.4-2.3,7.6-3.7,12-3.7c1,0,1.9,0.1,2.8,0.2l20.6-114.9l-138.3-10.5c-0.5,2.7-1.8,5.2-3.5,7.3     L470.7,247.2z" style="fill: #39A1FF;"/><path class="st3" d="M461.5,266.3l-177.8-5.5c-0.2,3.8-1.4,7.3-3.4,10.3l73.1,63.4c3.8-3.7,9-6,14.8-6c6.4,0,12.1,2.8,16,7.2     l80.7-59.3C462.9,273.5,461.7,270,461.5,266.3z" style="fill: #22DFFF;"/><path class="st7" d="M335.4,116.6c0-0.5-0.2-1-0.2-1.5c0-4.5,1.8-8.6,4.8-11.6l-68.1-77.9c-50.7,22.9-88.2,69.6-98.4,125.9     L335.4,116.6z" style="fill: #1AF4FF;"/><path class="st1" d="M53.6,282l187.5-23.1c0.2-5.7,2.6-10.9,6.4-14.6l-77.9-88l2.9-2.6l0.8,0.9l-0.2-1.1     C107.7,159.1,54.5,207.2,41,270C47.1,271.3,52,276,53.6,282z" style="fill: #32B5FF;"/><path class="st4" d="M362.6,370.5c-6.2-1.7-11.3-6.1-13.9-11.8l-208.8,72c0.4,1.3,0.6,2.7,0.6,4.2c0,2.5-0.6,4.8-1.6,6.9     c12.1,4,24.9,6.6,38.2,7.4l0,0h0.2c2.8,0.2,5.7,0.3,8.5,0.3c2.9,0,5.7-0.1,8.5-0.3h154C353.2,423.3,358.2,395.7,362.6,370.5z" style="fill: #4977FF;"/><path class="st2" d="M501.6,274.9c-2,3.8-5.1,6.9-9,8.9l55,150.4c6,2.4,10.3,8.2,10.4,15h11c2.5,0.2,5.1,0.3,7.6,0.3     c56.7,0,104.3-38.6,118.1-91L501.6,274.9z" style="fill: #5162FF;"/><path class="st8" d="M360.7,101.2c4.3,2.8,7.2,7.6,7.4,13.1l136.7,10.4c-16.3-46-51.6-83-96.5-101.5L360.7,101.2z" style="fill: #2ACAFF;"/><path class="st8" d="M489.4,244.5c5.2,1.7,9.5,5.3,12.1,10l90.3-42.5c-1.4-2.4-2.2-5.2-2.2-8.2c0-8.9,7-16,15.8-16.4     c-0.5-37.1-30.6-67-67.8-67c-9.6,0-18.6,2-26.9,5.6L489.4,244.5z" style="fill: #2ACAFF;"/><path class="st3" d="M343,101c2.5-1.6,5.5-2.5,8.7-2.5c1.9,0,3.7,0.4,5.5,1l47.5-77.7c-19.2-7.4-40.2-11.5-62-11.5     c-23.8,0-46.5,4.8-67.1,13.6L343,101z" style="fill: #22DFFF;"/><path class="st1" d="M482.8,286.2c-6.1,0-11.6-2.6-15.5-6.7l-80.8,59.4c1.9,3.2,3.1,7,3.1,11c0,3.4-0.8,6.5-2.2,9.3l138.8,84.1     c2.4-6.1,8.3-10.5,15.3-10.5c0.5,0,1.1,0.1,1.6,0.2l-54.1-147.8C487.1,285.9,485,286.2,482.8,286.2z" style="fill: #32B5FF;"/><polygon class="st4" points="650.6,175 637.3,201.6 690,210.9  " style="fill: #4977FF;"/><polygon class="st8" points="513.5,79.7 516.2,108.2 537.1,105.5  " style="fill: #2ACAFF;"/><polygon class="st1" points="154.7,88.5 149.2,142.6 103,138.7  " style="fill: #32B5FF;"/><polygon class="st5" points="54.5,410 91,446.9 35.7,449.4  " style="fill: #418CFF;"/><polygon class="st1" points="19.7,374.1 31.3,400.8 7.1,398.9  " style="fill: #32B5FF;"/><polygon class="st8" points="621.9,143.5 621.9,159.4 644.4,153.9  " style="fill: #2ACAFF;"/><polygon class="st7" points="194.2,39.9 178.8,65.7 144.2,52.8  " style="fill: #1AF4FF;"/><polygon class="st2" points="688.5,410 653.4,449.4 699.9,444.5  " style="fill: #5162FF;"/><polygon class="st4" points="713.8,362.6 710.1,385.8 736.5,385.8  " style="fill: #4977FF;"/><polygon class="st1" points="37.7,210.9 19.2,241.8 0,231.3  " style="fill: #32B5FF;"/><polygon class="st8" points="414.4,0 467.7,25.5 461.9,0  " style="fill: #2ACAFF;"/></svg>
+            </a>
+        
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+          </div>
+        
+          <div class="navbar-menu">
+            <div class="navbar-start">
+              <a href="/" class="navbar-item">
+                Home
+              </a>
+        
+              <a class="navbar-item">
+                Use cases
+              </a>
+
+              <a class="navbar-item" href="/documentation">
+                Documentation
+              </a>
+
+              <a class="navbar-item">
+                GitHub
+              </a>
+        
+            </div>
+    </div> 
+  </nav>
