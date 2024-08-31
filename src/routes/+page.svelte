@@ -1,11 +1,38 @@
 <script lang="ts">
     import hero1 from '$lib/assets/hero-1.PNG';
     import hero2 from '$lib/assets/hero-2.PNG';
+    import feat1 from '$lib/assets/feat-1.PNG';
+    import feat2 from '$lib/assets/feat-2.PNG';
 </script>
 
 <svelte:head>
 	<title>Azure Cost Estimator - automated cost estimations for ARM Templates, Bicep and Terraform</title>
 	<meta name="description" content="Azure Cost Estimator is a FOSS project aimed at providing cost estimations for Azure infrastructure." />
+    <style>
+        .hero img {
+            box-shadow: 0px 0px 10px #fff;
+            position: absolute;
+        }
+
+        img.img1 {
+            top: -13rem;
+            left: 0;
+        }
+
+        img.img2 {
+            top: -7rem;
+            left: 15rem;
+        }
+
+        .hero {
+            background-color: #39a1ff;
+            color: white;
+        }
+
+        .hero .title, .hero .subtitle {
+            color: white;
+        }
+    </style>
 </svelte:head>
 
 <section class="homepage hero is-large">
@@ -16,9 +43,9 @@
                     <p class="title">Don't let your monthly bill to surprise you.</p>
                     <p class="subtitle">Estimate infrastructure cost with ease for free.</p>                    
                 </div>
-                <div class="column">
-                    <img src={hero1} alt="Azure Cost Estimator" />
-                    <img src={hero2} alt="Azure Cost Estimator" />
+                <div class="column is-relative">
+                    <img src={hero1} alt="Azure Cost Estimator" class="img1" />
+                    <img src={hero2} alt="Azure Cost Estimator" class="img2" />
                 </div>
             </div>       
         </div>  
@@ -45,7 +72,9 @@
                     Azure Cost Estimator fully understands the structure of both ARM Templates and Bicep files. It extracts all the necessary information to provide you with an accurate cost estimation. No additional configuration is needed - use the same concepts you are already familiar with.
                 </p>
             </div>
-            <div class="column"></div>
+            <div class="column">
+                <img src={feat1} alt="Azure Cost Estimator" />
+            </div>
         </div>
     </div>
 </section>
@@ -53,7 +82,9 @@
 <section class="section">
     <div class="container">
         <div class="columns is-centered">
-            <div class="column"></div>
+            <div class="column">
+                <img src={feat2} alt="Azure Cost Estimator" />
+            </div>
             <div class="column">
                 <h2 class="title">Seamless CICD integration</h2>
                 <p>
